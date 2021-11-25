@@ -1,7 +1,7 @@
 # Jüssi
 
 ## Acesso
-Link: 
+Link: https://jussi-paulosantiago.netlify.app/
 
 ## Instalação
 1. Clonar o projeto: `git clone git@github.com:PauloMachine/Jussi.git`

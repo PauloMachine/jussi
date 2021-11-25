@@ -4,7 +4,7 @@
 Link: https://jussi-paulosantiago.netlify.app/
 
 ## Instalação
-1. Clonar o projeto: `git clone git@github.com:PauloMachine/Jussi.git`
+1. Clonar o projeto: `git clone git@github.com:PauloMachine/jussi.git`
 2. Instalar as dependências: `yarn`
 3. Rodar o comando: `yarn start`
 

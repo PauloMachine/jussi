@@ -1,0 +1,10 @@
+export { About } from './about';
+export { Banner } from './banner';
+export { Category } from './category';
+export { Contact } from './contact';
+export { Footer } from './footer';
+export { Header } from './header';
+export { Newletter } from './newletter';
+export { Search } from './search';
+export { Solutions } from './solutions';
+export { Stores } from './stores';
